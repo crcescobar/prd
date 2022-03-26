@@ -1,0 +1,21 @@
+{
+  "es":{
+    "Team":"Our Amazing Team",
+    "ProfDav":"Team Leader",
+    "ProfCar":"Creative Leader",
+    "ProfEsc":"Data Engineer",
+    "ProfLau":"Operational Controller",
+    "ProfMun":"Content Engineer",
+    "ProfVal":"Legal Controller"
+
+  },
+  "en":{
+    "Team":"Nuestro Increible Equipo",
+    "ProfDav":"Lider De Equipo",
+    "ProfCar":"Lider Creativa",
+    "ProfEsc":"Ingeniero De Datos",
+    "ProfLau":"Control Operacional",
+    "ProfMun":"Ingeniero De Contenido",
+    "ProfVal":"Control Legal"
+  }
+}
