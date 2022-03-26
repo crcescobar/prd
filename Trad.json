@@ -6,7 +6,9 @@
     "ProfEsc":"Data Engineer",
     "ProfLau":"Operational Controller",
     "ProfMun":"Content Engineer",
-    "ProfVal":"Legal Controller"
+    "ProfVal":"Legal Controller",
+    "prueba1":"Esto es una prueba",
+    "prueba2":"Este texto esta en español esk"
 
   },
   "en":{
@@ -16,6 +18,8 @@
     "ProfEsc":"Ingeniero De Datos",
     "ProfLau":"Control Operacional",
     "ProfMun":"Ingeniero De Contenido",
-    "ProfVal":"Control Legal"
+    "ProfVal":"Control Legal",
+     "prueba1":"Esto es una prueba ing",
+    "prueba2":"Este texto esta en español ing"
   }
 }
