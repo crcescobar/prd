@@ -1,25 +1,21 @@
 {
   "es":{
     "Team":"Our Amazing Team",
-    "ProfDav":"Team Leader",
-    "ProfCar":"Creative Leader",
-    "ProfEsc":"Data Engineer",
-    "ProfLau":"Operational Controller",
-    "ProfMun":"Content Engineer",
-    "ProfVal":"Legal Controller",
-    "prueba1":"Esto es una prueba",
-    "prueba2":"Este texto esta en español esk"
+    "DescDav":"Team Leader",
+    "DescCar":"Creative Leader",
+    "DescEsc":"Data Engineer",
+    "DescLau":"Operational Controller",
+    "DescMun":"Content Engineer",
+    "DescVal":"Legal Controller"
 
   },
   "en":{
     "Team":"Nuestro Increible Equipo",
-    "ProfDav":"Lider De Equipo",
-    "ProfCar":"Lider Creativa",
-    "ProfEsc":"Ingeniero De Datos",
-    "ProfLau":"Control Operacional",
-    "ProfMun":"Ingeniero De Contenido",
-    "ProfVal":"Control Legal",
-     "prueba1":"Esto es una prueba ing",
-    "prueba2":"Este texto esta en español ing"
+    "DescDav":"Lider De Equipo",
+    "DescCar":"Lider Creativa",
+    "DescEsc":"Ingeniero De Datos",
+    "DescLau":"Control Operacional",
+    "DescMun":"Ingeniero De Contenido",
+    "DescVal":"Control Legal"
   }
 }
