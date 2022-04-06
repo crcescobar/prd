@@ -1,6 +1,6 @@
 {
-  "es":{
-    "Team":"Our Amazing Team",
+  "en":{
+    "Team":"Our Amazing Team1",
     "DescDav":"Team Leader",
     "DescCar":"Creative Leader",
     "DescEsc":"Data Engineer",
@@ -8,8 +8,8 @@
     "DescMun":"Content Engineer",
     "DescVal":"Legal Controller"
   },
-  "en":{
-    "Team":"Nuestro Increible Equipo",
+  "es":{
+    "Team":"Nuestro Increible Equipo2",
     "DescDav":"Lider De Equipo",
     "DescCar":"Lider Creativa",
     "DescEsc":"Ingeniero De Datos",
@@ -18,7 +18,7 @@
     "DescVal":"Control Legal"
   },
    "fr":{
-    "Team":"1Our Amazing Team",
+    "Team":"1Our Amazing Team3",
     "DescDav":"1Team Leader",
     "DescCar":"1Creative Leader",
     "DescEsc":"1Data Engineer",
