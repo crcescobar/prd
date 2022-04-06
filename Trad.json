@@ -7,7 +7,6 @@
     "DescLau":"Operational Controller",
     "DescMun":"Content Engineer",
     "DescVal":"Legal Controller"
-
   },
   "en":{
     "Team":"Nuestro Increible Equipo",
@@ -17,5 +16,14 @@
     "DescLau":"Control Operacional",
     "DescMun":"Ingeniero De Contenido",
     "DescVal":"Control Legal"
+  },
+   "fr":{
+    "Team":"1Our Amazing Team",
+    "DescDav":"1Team Leader",
+    "DescCar":"1Creative Leader",
+    "DescEsc":"1Data Engineer",
+    "DescLau":"1Operational Controller",
+    "DescMun":"1Content Engineer",
+    "DescVal":"1Legal Controller"
   }
 }
