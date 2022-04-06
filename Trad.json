@@ -18,4 +18,14 @@
     "DescMun":"Ingeniero De Contenido",
     "DescVal":"Control Legal"
   }
+  
+   "fr":{
+    "Team":"3",
+    "DescDav":"3",
+    "DescCar":"3",
+    "DescEsc":"3",
+    "DescLau":"3",
+    "DescMun":"3",
+    "DescVal":"3"
+  }
 }
