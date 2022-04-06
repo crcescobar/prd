@@ -1,5 +1,5 @@
 {
-  "en":{
+  "es":{
     "Team":"Our Amazing Team",
     "DescDav":"Team Leader",
     "DescCar":"Creative Leader",
@@ -9,7 +9,7 @@
     "DescVal":"Legal Controller"
 
   },
-  "es":{
+  "en":{
     "Team":"Nuestro Increible Equipo",
     "DescDav":"Lider De Equipo",
     "DescCar":"Lider Creativa",
@@ -18,6 +18,4 @@
     "DescMun":"Ingeniero De Contenido",
     "DescVal":"Control Legal"
   }
-  
-
 }
