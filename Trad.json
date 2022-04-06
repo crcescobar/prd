@@ -27,14 +27,13 @@
     "lbcat6esp": "Gallery",
     "lbcat6desc": "soon you will meet new artists",
     "lbcat6name": "Reserved",
-    //"lbCp5": "Close Project",
     "lbcat5": "Category:",
     "lbcat5esp": "Paint",
     "lbcat5desc": "30-year work history, with individual and collective exhibitions at the national level.",
     "lbcat5name": "Martin Emilio Miranda Uribe",
     "lbcat4": "Category:",
     "lbcat4esp": "Photography",
-    "lbcat4desc": "Kapulga  is an artist passionate  about the fauna and flora that is local to the  city of Medellín, photographing the forgotten and littlest of the insects, birds and plants  world, this with the objective  that we stop to observe, admire  and enjoy its beautiful natural  composition that requires neither filters nor touch ups.",
+    "lbcat4desc":"Kapulga  is an artist passionate  about the fauna and flora that is local to the  city of Medellín, photographing the forgotten and littlest of the insects, birds and plants  world, this with the objective  that we stop to observe, admire  and enjoy its beautiful natural  composition that requires neither filters nor touch ups.",
     "lbcat4name": "Kapulga",
     "lbcat3": "Category:",
     "lbcat3esp": "Paint",
@@ -104,7 +103,6 @@
     "lbArtDet": "De nuestros artistas y creativos de Medellín para el mundo.",
     "lbArt": "Artistas"
   },
-
   "fr": {
     "Team": "1Our Amazing Team3",
     "DescDav": "1Team Leader",
