@@ -78,7 +78,9 @@
     "lbMnftg": "MNFT Gallery",
     "lbartist": "Artists",
     "lbtoken": "Token",
-    "lbsale": "Sale"
+    "lbsale": "Sale",
+    "idioma": "English"
+    
   },
   "es": {
     "Team": "Nuestro Increible Equipo",
@@ -159,7 +161,8 @@
     "lbMnftg": "Galería MNFT",
     "lbartist": "Artistas",
     "lbtoken": "Token",
-    "lbsale": "Venta"
+    "lbsale": "Venta",
+    "idioma": "Español"
   },
   "fr": {
     "Team": "1Our Amazing Team3",
