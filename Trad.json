@@ -79,7 +79,8 @@
     "lbartist": "Artists",
     "lbtoken": "Token",
     "lbsale": "Sale",
-    "lang3": "language"   
+    "lang3": "language"
+    
   },
   "es": {
     "Team": "Nuestro Increible Equipo",
@@ -173,4 +174,3 @@
     "DescVal": "1Legal Controller"
   }
 }
-
