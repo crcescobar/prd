@@ -79,7 +79,8 @@
     "lbartist": "Artists",
     "lbtoken": "Token",
     "lbsale": "Sale",
-    "lang3": "language"
+    "lang3": "language",
+    "Prueba": "<div class=\"ad_box\"><img class=\"banner\" src=\"some_ad.png\" alt=\"\" \/>"   
     
   },
   "es": {
