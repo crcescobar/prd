@@ -163,7 +163,7 @@
     "lbtoken": "Token",
     "lbsale": "Venta",
     "lang3": "Idioma",
-    "Prueba": "<h2 id=\"foo\"> Header with Id property</h2>"
+    "Prueba": "<h4 id=\"foo\"> Header with Id property</h2>"
   },
   "fr": {
     "Team": "1Our Amazing Team3",
