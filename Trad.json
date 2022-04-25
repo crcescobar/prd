@@ -72,7 +72,7 @@
     "lbtoken": "Token",
     "lbsale": "Sale",
     "lang3": "language",
-    "Prueba": "<h4> \"Be Part  Of Our  Story!c \" <\/h4>"
+    "Prueba": "<h4> \"Be Part  Of Our  Story! \" <\/h4>"
   },
   "es": {
     "Team": "Nuestro Increible Equipo",
@@ -155,7 +155,7 @@
     "lbtoken": "Token",
     "lbsale": "Venta",
     "lang3": "Idioma",
-    "Prueba": " Be Part    <br/>    Of Our    <br/>    Story!"
+    "Prueba": "<p class=\"special\">content<\/p>"
   },
   "fr": {
     "Team": "1Our Amazing Team3",
