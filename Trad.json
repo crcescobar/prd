@@ -163,7 +163,7 @@
     "lbtoken": "Token",
     "lbsale": "Venta",
     "lang3": "Idioma",
-    "Prueba": "<h4>Favorite Foods</h4>"
+    "Prueba": "<p class=\"special\">content<\/p>"
   },
   "fr": {
     "Team": "1Our Amazing Team3",
@@ -171,6 +171,7 @@
     "DescCar": "1Creative Leader",
     "DescEsc": "1Data Engineer",
     "DescLau": "1Operational Controller",
-    "DescMun": "<h3>&quot;Hot&quot; Items <\/h3> <br \/> <ul id=\"items\" \/>"
+    "DescMun": "<h3>&quot;Hot&quot; Items <\/h3> <br \/> <ul id=\"items\" \/>",
+    "DescVal": "<h4> Be Part <br \/> Of Our <b\/> Story!<\/h4>"
   }
 }
